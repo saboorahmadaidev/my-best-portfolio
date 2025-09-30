@@ -1,0 +1,102 @@
+🚀 Prompt for Framer / AI Website Builder
+
+**"Build me a world-class personal portfolio website that looks modern, animated, and highly professional. The website should reflect my role as a Full Stack AI Developer, Machine Learning & Data Science specialist, and Web/App Developer.
+
+Frontend (must be stunning):
+
+Use JavaScript, React, and modern libraries for interactive UI.
+
+Include smooth animations, transitions, and hover effects for a premium feel.
+
+Theme: Minimal, futuristic, elegant (dark/light mode toggle).
+
+Responsive across desktop, tablet, and mobile.
+
+
+Website Structure / Sections:
+
+1. Hero Section (Landing Page):
+
+My profile picture (in a circular frame with glow effect).
+
+Headline: “Hi, I’m Saboor Ahmad – Full Stack AI Developer & Data Scientist.”
+
+Animated text showing rotating titles like AI Engineer | Full Stack Developer | Data Scientist | App & Web Developer.
+
+A call-to-action button: Hire Me + View Projects.
+
+
+
+2. About Me Section:
+
+Short professional bio with subtle animation.
+
+Skills in a grid format (Python, JavaScript, React, Node.js, AI/ML, WordPress, etc.).
+
+
+
+3. Projects Section:
+
+Showcase cards with hover animations.
+
+Each card should have image preview, project title, description, tech stack, and GitHub/Live link.
+
+Animated carousel for featured projects.
+
+
+
+4. Clients & Testimonials Section:
+
+Logos of companies/clients (animated).
+
+Testimonials in sliding cards.
+
+
+
+5. Experience / Journey Section:
+
+Timeline style (vertical animation) showing education, internships, and achievements.
+
+
+
+6. Chatbot Section:
+
+A small AI-powered chatbot (backend Python + Flask/FastAPI).
+
+Visitors can ask about my skills, projects, and services.
+
+
+
+7. Contact Section:
+
+Contact form (name, email, message).
+
+Social links with icons (LinkedIn, GitHub, Upwork, Gmail, Discord, etc.).
+
+
+
+8. Footer:
+
+Copyright © 2025 Saboor Ahmad | All rights reserved.
+
+Simple clean design.
+
+
+
+
+Backend (Python):
+
+Use Flask or Django for backend logic.
+
+Connect chatbot using Python + NLP libraries (basic AI assistant about me).
+
+Store contact form messages securely.
+
+
+Overall Goal:
+
+Make the website smooth, futuristic, and interactive.
+
+Best ever portfolio + resume + client hub in one place.
+
+Impress recruiters, clients, and companies."**
